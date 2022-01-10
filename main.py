@@ -10,16 +10,11 @@ users = [
     },
     {
         "user_id" : 2,
-        "name" : "Suwan",
-        "face_feature" : FaceDetector.getFacefeature(".\image\Suwan.jpg")
-    },
-    {
-        "user_id" : 3,
         "name" : "Jeff Bezos",
         "face_feature" : FaceDetector.getFacefeature(".\image\Jeff Bezos.jpg")
     },
     {
-        "user_id" : 4,
+        "user_id" : 3,
         "name" : "Messi",
         "face_feature" : FaceDetector.getFacefeature(".\image\Messi.jpg")
     }
